@@ -1,0 +1,17 @@
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Infrastructure\bin\Debug\net6.0\Ecommerce.Infrastructure.deps.json
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Infrastructure\bin\Debug\net6.0\Ecommerce.Infrastructure.dll
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Infrastructure\bin\Debug\net6.0\Ecommerce.Infrastructure.pdb
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Infrastructure\bin\Debug\net6.0\Ecommerce.Application.dll
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Infrastructure\bin\Debug\net6.0\Ecommerce.Domain.dll
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Infrastructure\bin\Debug\net6.0\Ecommerce.Application.pdb
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Infrastructure\bin\Debug\net6.0\Ecommerce.Domain.pdb
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Infrastructure\obj\Debug\net6.0\Ecommerce.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Infrastructure\obj\Debug\net6.0\Ecommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Infrastructure\obj\Debug\net6.0\Ecommerce.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Infrastructure\obj\Debug\net6.0\Ecommerce.Infrastructure.AssemblyInfo.cs
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Infrastructure\obj\Debug\net6.0\Ecommerce.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Infrastructure\obj\Debug\net6.0\Ecommerce.Infrastructure.csproj.CopyComplete
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Infrastructure\obj\Debug\net6.0\Ecommerce.Infrastructure.dll
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Infrastructure\obj\Debug\net6.0\refint\Ecommerce.Infrastructure.dll
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Infrastructure\obj\Debug\net6.0\Ecommerce.Infrastructure.pdb
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Infrastructure\obj\Debug\net6.0\ref\Ecommerce.Infrastructure.dll

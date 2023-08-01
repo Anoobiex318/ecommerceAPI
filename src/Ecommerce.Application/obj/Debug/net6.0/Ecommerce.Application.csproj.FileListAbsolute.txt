@@ -1,0 +1,15 @@
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Application\bin\Debug\net6.0\Ecommerce.Application.deps.json
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Application\bin\Debug\net6.0\Ecommerce.Application.dll
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Application\bin\Debug\net6.0\Ecommerce.Application.pdb
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Application\bin\Debug\net6.0\Ecommerce.Domain.dll
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Application\bin\Debug\net6.0\Ecommerce.Domain.pdb
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Application\obj\Debug\net6.0\Ecommerce.Application.csproj.AssemblyReference.cache
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Application\obj\Debug\net6.0\Ecommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Application\obj\Debug\net6.0\Ecommerce.Application.AssemblyInfoInputs.cache
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Application\obj\Debug\net6.0\Ecommerce.Application.AssemblyInfo.cs
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Application\obj\Debug\net6.0\Ecommerce.Application.csproj.CoreCompileInputs.cache
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Application\obj\Debug\net6.0\Ecommerce.Application.csproj.CopyComplete
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Application\obj\Debug\net6.0\Ecommerce.Application.dll
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Application\obj\Debug\net6.0\refint\Ecommerce.Application.dll
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Application\obj\Debug\net6.0\Ecommerce.Application.pdb
+C:\Users\mdcvillarta\source\repos\Ecommerce\src\Ecommerce.Application\obj\Debug\net6.0\ref\Ecommerce.Application.dll
